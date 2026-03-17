@@ -201,8 +201,8 @@ Les composants sont découplés et réutilisables — `SiteForm`, `ResultCard`, 
 **Palier 1 — Base fonctionnelle ✅**
 "Socle complet opérationnel : backend Spring Boot, base PostgreSQL, frontend avec formulaire, calcul CO₂, affichage du résultat, historique en base. Ce palier est entièrement validé."
 
-**Palier 2 — Dashboard & indicateurs ✅ (partiel)**
-"Les KPIs sont affichés : CO₂ total, CO₂ par m², CO₂ par employé. La répartition construction / exploitation est visualisée. Il manque les graphiques interactifs avancés et l'application mobile React Native — des fonctionnalités prévues en évolution."
+**Palier 2 — Dashboard & Mobile 🔜**
+"Les graphiques interactifs avancés et l'application mobile React Native sont les prochaines étapes — des fonctionnalités identifiées et prévues dans notre roadmap."
 
 **Palier 3 — Fonctions avancées 🔜**
 "La comparaison multi-sites et l'export PDF sont les prochaines étapes naturelles de la roadmap."
